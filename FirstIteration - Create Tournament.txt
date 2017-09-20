@@ -1,0 +1,8 @@
+	Our first iteration for the Tournament Organizer program will be feature-based. The most important feature that we need to be able to make sure works will be to actually create an initial tournament and allow for the addition of format and teams to the tournament.
+
+Create Tournament:
+	The tournament object (Tournament.java) needs to contain space for: name, deadline, format, teams.
+
+	The GUI (TournamentInit.java) needs to be able to have buttons and listeners that will allow the user 			to create a Tournament object and enter in the necessary information.
+
+	The GUI element will need to also allow us to see the feedback of the tournament creation and to 			check if the information entered is correct.
